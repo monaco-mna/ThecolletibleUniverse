@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CollectibleUniverse</title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+    <header>
+        <h1>CollectibleUniverse</h1>
+        <p>Compra e Vendi le tue Carte da Collezione Preferite</p>
+    </header>
+    <nav>
+        <a href="#compra">Compra</a>
+        <a href="#vendi">Vendi</a>
+        <a href="#prodotti">Prodotti</a>
+    </nav>
+    <section id="compra">
+        <h2 class="section-title">Compra</h2>
+        <div class="container">
+            <div class="card">
+                <h3>Carte Pokémon</h3>
+                <p>Gradate, Usate, Box e altro.</p>
+            </div>
+            <div class="card">
+                <h3>Carte One Piece</h3>
+                <p>Gradate, Usate, Box e altro.</p>
+            </div>
+        </div>
+    </section>
+    <section id="vendi">
+        <h2 class="section-title">Vendi</h2>
+        <div class="container">
+            <div class="card">
+                <h3>Posta il Tuo Prodotto</h3>
+                <p>Vendi i tuoi prodotti usando la nostra piattaforma.</p>
+            </div>
+        </div>
+    </section>
+    <section id="prodotti">
+        <h2 class="section-title">Prodotti</h2>
+        <div class="container">
+            <div class="card">
+                <h3>Prodotti Pokémon</h3>
+                <p>Carte, Box, Accessori e altro.</p>
+            </div>
+            <div class="card">
+                <h3>Prodotti One Piece</h3>
+                <p>Carte, Box, Accessori e altro.</p>
+            </div>
+            <div class="card">
+                <h3>Prodotti Yu-Gi-Oh!</h3>
+                <p>Carte, Box, Accessori e altro.</p>
+            </div>
+            <div class="card">
+                <h3>Prodotti UFC</h3>
+                <p>Carte, Box, Accessori e altro.</p>
+            </div>
+            <div class="card">
+                <h3>Prodotti NBA</h3>
+                <p>Carte, Box, Accessori e altro.</p>
+            </div>
+        </div>
+    </section>
+    <footer>
+        <p>&copy; 2024 CollectibleUniverse. Tutti i diritti riservati.</p>
+    </footer>
+</body>
+</html>
